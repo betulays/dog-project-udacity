@@ -1,3 +1,4 @@
+The dog-breed classifier project for Udacity Deep Learning Nanodegree Program
 Project Instructions are copied from https://github.com/udacity/dog-project.git
 ## Project Instructions
 2. Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and place it in the repo, at location `path/to/dog-project/dogImages`. 
