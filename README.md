@@ -1,2 +1,4 @@
 # dog-project-udacity
-Keras, Transfer Learning,  AI Nanodegree, Udacity, CNN, dog breed classifier
+
+Convolutional Neural Networks (CNN) project in the AI Nanodegree. 
+For project instructions please visit https://github.com/udacity/dog-project.git 
